@@ -1151,7 +1151,12 @@ input, textarea {
   }
 
   .hero__visual {
-    display: none;
+    justify-content: center;
+  }
+
+  .hero__portrait {
+    width: 240px;
+    height: 280px;
   }
 
   .about__grid {
